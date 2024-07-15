@@ -27,7 +27,7 @@ situation
 
 ## ❤️ Let's get connected
 
-<p align="left">
+<p align="center">
   
   <a href="https://www.linkedin.com/in/ragul-n-b83b27223/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/>
@@ -47,15 +47,15 @@ situation
 
 
 
-### Technologies  I use :
-<p align="center">
+### I Code in :
+<p align="left">
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
 </p>
 
 
-### Tools 
-<p align="center">
+### Tools I use :
+<p align="left">
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" /> <img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/> <img  height="50" width="50" src="https://skillicons.dev/icons?i=latex" height="40" alt="latex logo"  /><img height="50" width="50" src="https://skillicons.dev/icons?i=git"  alt="git logo"  /> <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva logo"  /><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"  alt="intellij logo"  /> <img height="50" width="50" src="https://skillicons.dev/icons?i=linux"  alt="linux logo"  /><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"  alt="jupyter logo"  />
 </p>
 
