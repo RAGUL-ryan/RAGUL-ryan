@@ -13,7 +13,7 @@ challenging environment. Good at problem- solving, teamwork, and adapting to new
 situation
 </p>
 
-<img align="right" width="370" height="240" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="370" height="240" src="https://iconscout.com/lottie-animation/web-coding-9066153">
 
 
 - 🔭 I’m currently working on Enhancing Legal Accessibility in India.
