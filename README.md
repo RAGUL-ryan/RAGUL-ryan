@@ -22,7 +22,7 @@
 
 
 
-![Ragul's GitHub stats](https://github-readme-stats.vercel.app/api?username=hareesh-r&theme=dark&show_icons=true&&hide=issues,contribs)
+[![Ragul's GitHub stats](https://github-readme-stats.vercel.app/api?username=RAGUL-ryan)](https://github.com/anuraghazra/github-readme-stats)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Ragul_Ryan?theme=nord&font=Tomorrow&ext=heatmap)
 
