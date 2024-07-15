@@ -1,9 +1,10 @@
 ## Hi there 👋 It's me Ragul Ryan
 
 <h3 align="left">Computer Science Student @ Madras Institute Of Technology.</h3>
+
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
-🔭 I’m currently working on Enhancing Legal Accessibility in India.
+- 🔭 I’m currently working on Enhancing Legal Accessibility in India.
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on Machinle Learning
 - 💬 Ask me about Technology
@@ -13,7 +14,7 @@
 
 ## ❤️ Let's get connected
 
-<p align="center">
+<p align="left">
   
   <a href="https://www.linkedin.com/in/ragul-n-b83b27223/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/>
@@ -48,4 +49,5 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Ragul_Ryan?theme=dark&font=Fanwood%20Text&ext=heatmap)
 
+<!-- <img src="https://leetcode-stats-six.vercel.app/?username=Ragul_Ryan&theme=dark" /> -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RAGUL-ryan&bg_color=000000&color=fafafa&line=852932&point=f70808&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
