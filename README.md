@@ -28,4 +28,26 @@ Computer Science Student @ Madras Institute Of Technology
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Ragul_Ryan?theme=dark&font=Passions%20Conflict)
 
+<br>
+<div style="display: flex; align-items: center;">
+  <h2 style="color: #44AEFB; align: left;"> <img width="30" src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif"> Statistics</h2>
+</div>
+ <br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kirankumar6676&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /><br> <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kirankumar6676&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br><br><br>
+  <img src="https://streak-stats.demolab.com?user=kirankumar6676&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+<h4 align="center">Profile views</h4>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/kirankumar6676/count.svg?"  />
+</div>
+
+<img src="https://raw.githubusercontent.com/kirankumar6676/kirankumar6676/output/snake.svg" alt="Snake animation" />
+
+
+<img src="https://raw.githubusercontent.com/kirankumar6676/kirankumar6676/output/snake.svg" alt="Snake animation" />
+
+
 [![Ragul github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RAGUL-ryan&bg_color=000000&color=f5f5f5&line=ea0606&point=040101&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
