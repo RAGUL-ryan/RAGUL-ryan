@@ -16,9 +16,7 @@ Computer Science Student @ Madras Institute Of Technology
 <br>
 <p align="left">
 <a href="https://www.linkedin.com/in/ragul-n-b83b27223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="Ragul" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/raguln899" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="raguln899" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Ragul_Ryan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Ragul_ryan" height="30" width="40" /></a>
-</p>
+
 
 
 ### I code in
