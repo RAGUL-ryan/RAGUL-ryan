@@ -24,7 +24,7 @@ Computer Science Student @ Madras Institute Of Technology
   <a href="https://x.com/ragul31255_n" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/>
   </a> 
-  <a href="mailto:raguln899@gmail.com" target="_blank">
+  <a href="raguln899@gmail.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  height="30px"/>
   </a>
 </p>
