@@ -1,3 +1,4 @@
+<p align="center">
 ## Hi there 👋 
 <p align="center">
 I'm <strong>Ragul</strong>, pursing my <u>BE</u> in Computer Science Engineering at MIT, <a href="https://www.annauniv.edu/">Anna University</a> Chennai. Dynamic and motivated student seeking
