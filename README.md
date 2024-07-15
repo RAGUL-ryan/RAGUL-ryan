@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me Ragul Ryan
 
-<h3 align="center">Computer Science Student @ Madras Institute Of Technology.</h3>
+<h3 align="left">Computer Science Student @ Madras Institute Of Technology.</h3>
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 🔭 I’m currently working on Enhancing Legal Accessibility in India.
@@ -18,12 +18,14 @@
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>  
 
 ### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" /> <img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" /> <img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/> <img  height="50" width="50" src="https://skillicons.dev/icons?i=latex" height="40" alt="latex logo"  /><img height="50" width="50" src="https://skillicons.dev/icons?i=git"  alt="git logo"  /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="anaconda logo"  />
+  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva logo"  /><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"  alt="intellij logo"  /> <img height="50" width="50" src="https://skillicons.dev/icons?i=linux"  alt="linux logo"  /><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"  alt="jupyter logo"  />
+  
 
 
 
 [![Ragul's GitHub stats](https://github-readme-stats.vercel.app/api?username=RAGUL-ryan)](https://github.com/anuraghazra/github-readme-stats)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Ragul_Ryan?theme=nord&font=Tomorrow&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Ragul_Ryan?theme=dark&font=Fanwood%20Text&ext=heatmap)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RAGUL-ryan&bg_color=000000&color=fafafa&line=852932&point=f70808&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
