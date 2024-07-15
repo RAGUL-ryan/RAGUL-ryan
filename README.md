@@ -11,9 +11,9 @@ Computer Science Student @ Madras Institute Of Technology
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ragul-n-b83b27223/)
 
-## ❤️ Let's get connected:
+## Let's get connected 
 
-<p align="center">
+<p align="left">
   
   <a href="https://www.linkedin.com/in/ragul-n-b83b27223/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/>
