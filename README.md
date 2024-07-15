@@ -11,6 +11,16 @@ Computer Science Student @ Madras Institute Of Technology
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ragul-n-b83b27223/)
 
+<br>
+<h2 align="left"> <img width="30" src="https://github.com/kirankumar6676/kirankumar6676/blob/66ff1ee39e46717d4aba69bd04ee43c4d2b19bb2/connection.png" > Connect with me:</h2>
+<br>
+<p align="left">
+<a href="https://www.linkedin.com/in/ragul-n-b83b27223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="Ragul" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/raguln899" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="raguln899" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Ragul_Ryan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Ragul_ryan" height="30" width="40" /></a>
+</p>
+
+
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>  <img height="50" width="50" src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"/>
 
