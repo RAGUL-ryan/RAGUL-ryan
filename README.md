@@ -11,12 +11,25 @@ Computer Science Student @ Madras Institute Of Technology
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ragul-n-b83b27223/)
 
-<br>
-<h2 align="left"> <img width="30" src="https://github.com/kirankumar6676/kirankumar6676/blob/66ff1ee39e46717d4aba69bd04ee43c4d2b19bb2/connection.png" > Connect with me:</h2>
-<br>
-<p align="left">
-<a href="https://www.linkedin.com/in/ragul-n-b83b27223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="Ragul" height="30" width="40" /></a>
+## ❤️ Let's get connected:
 
+<p align="center">
+  
+  <a href="https://www.linkedin.com/in/ragul-n-b83b27223/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/>
+  </a> 
+  <a href="https://github.com/RAGUL-ryan" target="_blank">
+    <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  height="30px"/>
+  </a> 
+  <a href="https://x.com/ragul31255_n" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/>
+  </a> 
+  <a href="mailto:raguln899@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  height="30px"/>
+  </a>
+</p>
+
+<br>
 
 
 ### I code in
