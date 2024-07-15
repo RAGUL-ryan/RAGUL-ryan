@@ -1,5 +1,11 @@
-<p align="center">
-## Hi there 👋 
+
+
+<h1 align="center">
+  Hi There!
+  <span role="img" aria-labelledby="wave">
+    👋🏻
+  </span>
+</h1>
 <p align="center">
 I'm <strong>Ragul</strong>, pursing my <u>BE</u> in Computer Science Engineering at MIT, <a href="https://www.annauniv.edu/">Anna University</a> Chennai. Dynamic and motivated student seeking
 opportunities to contribute and learn in a
