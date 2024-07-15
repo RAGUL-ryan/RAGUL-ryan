@@ -67,6 +67,6 @@ situation
 [![Ragul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RAGUL-ryan&bg_color=000000&color=fafafa&line=852932&point=f70808&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Ragul_Ryan?theme=dark&font=Fanwood%20Text&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Ragul_Ryan?theme=light&font=Paytone%20One&ext=heatmap)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ragul-ryan&" alt="ragul-ryan" /></p>
