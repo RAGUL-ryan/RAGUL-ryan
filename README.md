@@ -7,13 +7,13 @@
   </span>
 </h1>
 <p align="center">
-I'm <strong>Ragul</strong>, pursing my <u>BE</u> in Computer Science Engineering at MIT, <a href="https://www.annauniv.edu/">Anna University</a> Chennai. Dynamic and motivated student seeking
+I'm <strong>Ragul N</strong>, pursing my <u>BE</u> in Computer Science Engineering at MIT, <a href="https://www.annauniv.edu/">Anna University</a> Chennai. Dynamic and motivated student seeking
 opportunities to contribute and learn in a
 challenging environment. Good at problem- solving, teamwork, and adapting to new
 situation
 </p>
 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="370" height="400" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 
 - 🔭 I’m currently working on Enhancing Legal Accessibility in India.
