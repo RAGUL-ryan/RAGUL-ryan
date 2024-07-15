@@ -47,19 +47,26 @@ situation
 
 
 
-### Technologies and Tools I use :
+### Technologies  I use :
 <p align="center">
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" /> <img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/> <img  height="50" width="50" src="https://skillicons.dev/icons?i=latex" height="40" alt="latex logo"  /><img height="50" width="50" src="https://skillicons.dev/icons?i=git"  alt="git logo"  /> <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva logo"  /><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"  alt="intellij logo"  /> <img height="50" width="50" src="https://skillicons.dev/icons?i=linux"  alt="linux logo"  /><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"  alt="jupyter logo"  />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
 </p>
 
 
-<div align="center">
-[![Ragul's GitHub stats](https://github-readme-stats.vercel.app/api?username=RAGUL-ryan)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-<div align="center">
-![LeetCode Stats](https://leetcard.jacoblin.cool/Ragul_Ryan?theme=dark&font=Fanwood%20Text&ext=heatmap)
+### Tools 
+<p align="center">
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" /> <img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/> <img  height="50" width="50" src="https://skillicons.dev/icons?i=latex" height="40" alt="latex logo"  /><img height="50" width="50" src="https://skillicons.dev/icons?i=git"  alt="git logo"  /> <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva logo"  /><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"  alt="intellij logo"  /> <img height="50" width="50" src="https://skillicons.dev/icons?i=linux"  alt="linux logo"  /><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"  alt="jupyter logo"  />
+</p>
 
+
+<p align="center">
+[![Ragul's GitHub stats](https://github-readme-stats.vercel.app/api?username=RAGUL-ryan)](https://github.com/anuraghazra/github-readme-stats)
+</p>
+
+<p align="center">
+![LeetCode Stats](https://leetcard.jacoblin.cool/Ragul_Ryan?theme=dark&font=Fanwood%20Text&ext=heatmap)
+</p>
 
 [![Ragul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RAGUL-ryan&bg_color=000000&color=fafafa&line=852932&point=f70808&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
