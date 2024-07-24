@@ -72,7 +72,7 @@ situation
 
 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Ragul_Ryan?theme=light&font=Paytone%20One&ext=heatmap)
+
 
 
 
