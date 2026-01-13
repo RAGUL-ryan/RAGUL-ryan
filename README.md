@@ -7,19 +7,26 @@
   </span>
 </h1>
 <p align="center">
-I'm <strong>Ragul N</strong>, pursing my <u>BE</u> in Computer Science Engineering at MIT, <a href="https://www.annauniv.edu/">Anna University</a> Chennai. Dynamic and motivated student seeking
-opportunities to contribute and learn in a
-challenging environment. Good at problem- solving, teamwork, and adapting to new
-situation
+I'm <strong>Ragul N</strong>, a <u>BE</u> graduated in Computer Science Engineering from Madras Institute Of Technology, 
+<a href="https://www.annauniv.edu/">Anna University</a>, Chennai. I currently work as an 
+<strong>Associate Software Engineer at Disprz</strong>, where I contribute to 
+<strong>production-grade enterprise applications</strong>, building and maintaining scalable 
+features used by real users. I have hands-on experience in <strong>full-stack development</strong>, 
+working with modern technologies and following industry best practices.
+
+I am a dynamic and motivated professional with strong skills in 
+<strong>problem-solving, teamwork, and adapting to new technologies</strong>, and I am passionate 
+about delivering reliable, high-quality software in fast-paced environments.
+
 </p>
 
 <img align="right" width="370" height="240" src="https://camo.githubusercontent.com/9792d43627b178fd4a45bcabb3647d7b34a62d64baf96a19abf6ea19d5cea8dd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
 
-
-- 🔭 I’m currently working on Enhancing Legal Accessibility in India : Simplifying Land Laws and Acquistion Processes.
-- 🌱 I’m currently learning DSA
-- 👯 I’m looking to collaborate on Machinle Learning
-- 💬 Ask me about Technology
+- 💼 Worked as a **Associate Software Developer at Disprz**, contributing to enterprise-level learning and development platforms.
+- 🛠️ Developed a **Form Builder Application** and a **Calendar Appointment Application** using **C# with a 3-Tier Architecture**.
+- 🌱 I’m Familiar with **Data Structures & Algorithms (DSA)**.
+- 👯 I’m looking to collaborate on **Full Stack Development**.
+- 💬 Ask me about **Technology**.
 - 📫 How to reach me raguln899@gmail.com
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/hareesh_dev) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ragul-n-b83b27223/)
