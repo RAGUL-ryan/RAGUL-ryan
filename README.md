@@ -19,8 +19,8 @@ I am a dynamic and motivated professional with strong skills in
 about delivering reliable, high-quality software in fast-paced environments.
 
 </p>
+<img align="right" width="370" height="240" src="assets/image.gif">
 
-<img align="right" width="370" height="240" src="https://camo.githubusercontent.com/9792d43627b178fd4a45bcabb3647d7b34a62d64baf96a19abf6ea19d5cea8dd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
 
 - 💼 Worked as a **Associate Software Developer at Disprz**, contributing to enterprise-level learning and development platforms.
 - 🛠️ Developed a **Form Builder Application** and a **Calendar Appointment Application** using **C# with a 3-Tier Architecture**.
