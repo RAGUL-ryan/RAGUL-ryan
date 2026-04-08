@@ -98,7 +98,6 @@ about delivering reliable, high-quality software in fast-paced environments.
 
 
 
-[![Ragul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RAGUL-ryan&bg_color=fcfcfc&color=eb0000&line=030303&point=f00000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
